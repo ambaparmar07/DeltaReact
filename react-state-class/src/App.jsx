@@ -8,6 +8,7 @@ function App() {
       <p>States in React</p>
       {/* <Counter/> */}
       <LikeButton/>
+      <Counter/>
     </>
   )
 }

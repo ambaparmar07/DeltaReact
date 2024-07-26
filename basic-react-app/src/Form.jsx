@@ -1,6 +1,6 @@
 function handleFormSubmit(event) {
     console.log("form was submitted!");
-    event.preventDefault();
+    // event.preventDefault();
 }
 
 export default function Form() {
